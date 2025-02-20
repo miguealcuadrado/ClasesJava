@@ -7,9 +7,15 @@ public class Condicionales {
         int Notas_M2 = 2;
 
         int Promedio = (Notas_M + Notas_M1 + Notas_M2) / 3;
-        System.out.println("El Estudiante" + Estudiante1 + "tiene 3 notas:" + Notas_M + "," + Notas_M1 + "," Notas_M2);
+        System.out.println("El estudiante" + Estudiante1 + "Tiene las siguientes notas:" + Notas_M + "," + Notas_M1 + "," + Notas_M2);
+
+        if (Promedio >= 3){
+            System.out.println(Estudiante1 + " Aprobo");
+        } else {
+            System.out.println(Estudiante1 + " No aprobo");
 
 
+        }
 
 
 
