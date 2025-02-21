@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EJEMPLO1",
+            "request": "launch",
+            "mainClass": "EJEMPLO1",
+            "projectName": "PROYECTO1_34403068"
+        },
+        {
+            "type": "java",
+            "name": "Entradas",
+            "request": "launch",
+            "mainClass": "Entradas",
+            "projectName": "PROYECTO1_34403068"
+        },
+        {
+            "type": "java",
             "name": "ANIDADAS",
             "request": "launch",
             "mainClass": "ANIDADAS",
