@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CICLO_FOR",
+            "request": "launch",
+            "mainClass": "CICLO_FOR",
+            "projectName": "PROYECTO1_34403068"
+        },
+        {
+            "type": "java",
             "name": "CONTROLADORES",
             "request": "launch",
             "mainClass": "CONTROLADORES",
