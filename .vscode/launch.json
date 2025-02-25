@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CONTROLADORES",
+            "request": "launch",
+            "mainClass": "CONTROLADORES",
+            "projectName": "PROYECTO1_34403068"
+        },
+        {
+            "type": "java",
+            "name": "EJERCICIO2",
+            "request": "launch",
+            "mainClass": "EJERCICIO2",
+            "projectName": "PROYECTO1_34403068"
+        },
+        {
+            "type": "java",
             "name": "EJEMPLO1",
             "request": "launch",
             "mainClass": "EJEMPLO1",
